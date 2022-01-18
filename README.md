@@ -14,11 +14,11 @@ If the task is a regression task, then explain the target variable and give brie
 <br>
 Sale Price refers to the selling price of the car.
 <br>
-**Mean Selling Price:** 121,000$
+**Mean Selling Price:** 13,276.71 $
 <br>
-**Max Selling Price:** 1,000,000$
+**Max Selling Price:** 45,400 $
 <br>
-**Min Selling Price:** 45,000$
+**Min Selling Price:** 5,118 $
 
 
 ## Model(s) Used
