@@ -30,7 +30,7 @@ The regression estimates explain the relationship between one dependent variable
 <br>
 y=mx+c
 <br>
-x: Score of the independent variable
-m: Regression coefficient
-c: Constant
-x: Independent variable
+x: Score of the independent variable<br>
+m: Regression coefficient<br>
+c: Constant<br>
+x: Independent variable<br>
